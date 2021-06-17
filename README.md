@@ -15,6 +15,8 @@
 * _VSCode_
 
 ## Description 📖
+<img width="1426" alt="Screen Shot 2021-06-17 at 2 49 24 PM" src="https://user-images.githubusercontent.com/59575780/122483365-4334cb00-cf87-11eb-8c5a-f7bfdf76f581.png">
+
 
 This is a UI application to collect data from a 3rd party online API. I collected information about the countries' names, populations, languages, and currencies. The information was collected for the USA, Canada, Mexico, and Argentina. The application contains API calls that would work with any country in the world. 
 
